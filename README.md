@@ -32,12 +32,12 @@ While both Linear Regression and Random Forest models accurately predict standar
 
 | Feature Category | Attribute | Correlation with Price | Market Value Impact |
 | :--- | :--- | :---: | :--- |
-| **Spatial / Capacity** | Total Area | `0.54` | 🟢 Primary Value Driver |
-| **Spatial / Capacity** | Number of Bathrooms | `0.52` | 🟢 Baseline Non-Negotiable |
-| **Amenities** | Air Conditioning | `0.45` | 🟢 High-Yield Premium Upgrade |
-| **Amenities** | Parking Spaces | `0.38` | 🟢 Significant Valuation Boost |
-| **Infrastructure** | Hot Water Heating | `0.09` | 🟡 Negligible Independent Impact |
-| **Furnishing Status** | Unfurnished | `-0.28` | 🔴 Heavy Market Penalty |
+| **Spatial / Capacity** | Total Area | `0.54` | Primary Value Driver |
+| **Spatial / Capacity** | Number of Bathrooms | `0.52` | Baseline Non-Negotiable |
+| **Amenities** | Air Conditioning | `0.45` | High-Yield Premium Upgrade |
+| **Amenities** | Parking Spaces | `0.38` | Significant Valuation Boost |
+| **Infrastructure** | Hot Water Heating | `0.09` | Negligible Independent Impact |
+| **Furnishing Status** | Unfurnished | `-0.28` | Heavy Market Penalty |
 
 ---
 
